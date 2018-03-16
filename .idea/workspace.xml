@@ -2,54 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f09207c2-c215-41f6-8c9b-1aac9b075a6a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/weather-app-react.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/env.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/jest/cssTransform.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/jest/fileTransform.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/paths.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/polyfills.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/webpack.config.dev.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/webpack.config.prod.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/webpackDevServer.config.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/favicon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/build.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/start.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/CurrentWeather/CurrentWeather.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/CurrentWeather/CurrentWeather.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/Error/Error.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/Forecast/DayFive/DayFive.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/Forecast/DayFive/DayFive.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/Forecast/DayFor/DayFor.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/Forecast/DayFor/DayFor.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/Forecast/DayOne/DayOne.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/Forecast/DayOne/DayOne.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/Forecast/DayThree/DayThree.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/Forecast/DayThree/DayThree.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/Forecast/DayTwo/DayTwo.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/Forecast/DayTwo/DayTwo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/Form/Form.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/Form/Form.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/container/App.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/container/App.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/container/App.test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/img/Humidity.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/img/search.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/img/wind.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/registerServiceWorker.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -75,7 +29,7 @@
       <file leaf-file-name="CurrentWeather.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/CurrentWeather/CurrentWeather.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
+            <state relative-caret-position="1936">
               <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
               <folding />
             </state>
@@ -85,7 +39,7 @@
       <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/container/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3234">
+            <state relative-caret-position="1950">
               <caret line="147" column="44" lean-forward="false" selection-start-line="147" selection-start-column="44" selection-end-line="147" selection-end-column="44" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
@@ -197,6 +151,7 @@
         <option value="$PROJECT_DIR$/src/index.css" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/components/Footer/Footer.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -233,6 +188,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -245,7 +201,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -307,27 +262,29 @@
       <workItem from="1520862921505" duration="3196000" />
       <workItem from="1520866186555" duration="13000" />
       <workItem from="1521240466842" duration="963000" />
+      <workItem from="1521241863263" duration="981000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77659000" />
+    <option name="totallyTimeSpent" value="78640000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21428572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21641791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32173914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -678,20 +635,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/CurrentWeather/CurrentWeather.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
+        <state relative-caret-position="1936">
           <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -699,7 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -707,13 +652,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/container/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3234">
+        <state relative-caret-position="1950">
           <caret line="147" column="44" lean-forward="false" selection-start-line="147" selection-start-column="44" selection-end-line="147" selection-end-column="44" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
@@ -722,6 +666,17 @@
             <marker date="1520863107407" expanded="true" signature="6168:7650" ph="..." />
             <marker date="1520863107407" expanded="true" signature="6169:7650" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="22">
+            <caret line="1" column="134" lean-forward="false" selection-start-line="1" selection-start-column="134" selection-end-line="1" selection-end-column="134" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
