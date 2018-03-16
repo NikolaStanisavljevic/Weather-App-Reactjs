@@ -1,0 +1,15 @@
+.dayFor {
+    display: inline-block;
+    transition: all .2s ;
+    margin: 0 auto;
+    border-bottom: 2px solid rgba(255, 255, 255, .5);
+
+}
+
+.dayFor:hover {
+    transform: scale(1.2);
+}
+
+.dayFor> img {
+    width: 5.5rem;
+}

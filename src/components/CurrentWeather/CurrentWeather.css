@@ -1,0 +1,88 @@
+
+
+.weather {
+    display: block;
+    position: relative;
+    width: 20rem;
+    height: 20rem;
+    margin: 0 auto;
+    top: 4.5rem;
+}
+
+.city {
+    font-size: 3rem;
+    font-weight: lighter;
+    display: block;
+    position: absolute;
+    top: 4.5rem;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 0;
+    width: 100%;
+}
+
+.date {
+    position: absolute;
+    font-size: 1rem;
+    top: 7rem;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.description {
+    position: absolute;
+}
+
+.feel {
+    position: absolute;
+    font-size: 1rem;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 16.5rem;
+
+}
+
+.main {
+    position: absolute;
+    left: 2.5rem;
+    top: 8.5rem;
+}
+
+.main > img {
+    width: 8rem;
+}
+
+.temp{
+    position: absolute;
+    left: 11.5rem;
+    top: 11rem;
+    margin: 0;
+    font-size: 3rem;
+}
+
+
+
+@media (max-width: 700px) {
+    .main > img {
+        width: 7rem;
+    }
+
+    .main {
+        left: 3.5rem;
+    }
+}
+
+@media (max-width: 600px) {
+    .main {
+        left: 3.5rem;
+    }
+
+    .feel {
+        top: 15.5rem;
+    }
+
+    .temp {
+        top: 11rem;
+    }
+}
+

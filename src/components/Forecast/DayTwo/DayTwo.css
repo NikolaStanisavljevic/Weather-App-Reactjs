@@ -1,0 +1,21 @@
+
+
+.dayTwo {
+    display: inline-block;
+    margin: 0 auto;
+    transition: all .2s ;
+    border-bottom: 2px solid rgba(255, 255, 255, .5);
+
+
+
+
+
+}
+
+.dayTwo:hover {
+    transform: scale(1.2);
+}
+
+.dayTwo> img {
+    width: 5.5rem;
+}

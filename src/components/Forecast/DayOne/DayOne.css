@@ -1,0 +1,19 @@
+
+
+.dayOne {
+    display: inline-block;
+    transition: all .2s ;
+    margin: 0 auto;
+    border-bottom: 2px solid rgba(255, 255, 255, .5);
+
+
+
+}
+
+.dayOne:hover {
+    transform: scale(1.2);
+}
+
+.dayOne> img {
+    width: 5.5rem;
+}

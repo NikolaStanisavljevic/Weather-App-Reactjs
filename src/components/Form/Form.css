@@ -1,0 +1,32 @@
+.form {
+    position: absolute;
+    right: 1.8rem;
+    top: .4rem;
+}
+
+.input {
+    border-radius: 20px;
+    text-align: center;
+    font-size: 1rem;
+    outline: none;
+}
+
+.input textarea{
+    background-color: white;
+}
+
+.button {
+    font-size: 1rem;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    color: inherit;
+
+
+}
+
+.button > img {
+    width: 2rem;
+    position: absolute;
+    top: .1rem;
+}
