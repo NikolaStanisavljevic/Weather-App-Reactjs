@@ -26,7 +26,7 @@ class App extends Component {
   };
 
     componentDidMount () {
-        axios.get(`http://api.apixu.com/v1/forecast.json?key=05246ca59647417da37155505180203&q=Belgrade&days=6`)
+        axios.get(`https://api.apixu.com/v1/forecast.json?key=05246ca59647417da37155505180203&q=Belgrade&days=6`)
             .then( response => {
                 this.setState({
                     weather: {
@@ -84,7 +84,7 @@ class App extends Component {
           city
       });
 
-    axios.get(`http://api.apixu.com/v1/forecast.json?key=05246ca59647417da37155505180203&q=${city.name}&days=6`)
+    axios.get(`https://api.apixu.com/v1/forecast.json?key=05246ca59647417da37155505180203&q=${city.name}&days=6`)
         .then( response => {
             this.setState({
                 weather: {
