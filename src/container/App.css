@@ -27,6 +27,8 @@
   .App {
     width: 100vw;
     margin: 0 auto;
+    height: 100vh;
+    border-radius: 0;
   }
 }
 
