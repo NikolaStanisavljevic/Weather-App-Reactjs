@@ -25,6 +25,8 @@ class App extends Component {
     day5:{}
   };
 
+    // Define starting point (city)
+
     componentDidMount () {
         axios.get(`https://api.apixu.com/v1/forecast.json?key=05246ca59647417da37155505180203&q=Belgrade&days=6`)
             .then( response => {
@@ -75,14 +77,18 @@ class App extends Component {
   getWeather = (event) => {
     event.preventDefault();
 
+ // Geting user input value and setting it as state 
+
     const city = {
         ...this.state.city
     };
 
       city.name = event.target.elements.city.value;
       this.setState ({
-          city
+          city: city
       });
+
+// Send api get request based on user value
 
     axios.get(`https://api.apixu.com/v1/forecast.json?key=05246ca59647417da37155505180203&q=${city.name}&days=6`)
         .then( response => {
@@ -130,7 +136,10 @@ class App extends Component {
         };
 
 
-  render() {
+  render () {
+
+      // Render error message if i get bad response
+
     if (this.state.error){
       return (
           <div>

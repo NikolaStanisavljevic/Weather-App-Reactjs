@@ -5,6 +5,9 @@ import classes from './DayTwo.css';
 
 const dayTwo = (props) => {
     return (
+        
+        // Display float as intiger
+
         <div className={classes.dayTwo}>
             <p>Max {Math.trunc(props.max)} ºc</p>
             <p>Min {Math.trunc(props.min)} ºc</p>

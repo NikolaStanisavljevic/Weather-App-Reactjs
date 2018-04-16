@@ -3,11 +3,15 @@ import classes from "./CurrentWeather.css";
 
 const currentWeather = (props) => {
 
+// Transform name of days in week and config hour and minute 
+
     const dayNames = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
     const dateInstance = new Date();
     const day = dayNames[dateInstance.getDay()];
     const hour = dateInstance.getHours();
     const minute = dateInstance.getMinutes();
+
+// Display data as configured dates
 
     return (
         <div className={classes.weather}>
