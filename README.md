@@ -25,7 +25,7 @@ and after instalation<br>
 
 `yarn run start`<br>
 
-##Usage
+## Usage
 
 * Put the city's name or its part and get the list of the most proper cities in the world.<br>
 Example - Lon or Lond or London.
