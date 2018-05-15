@@ -46,7 +46,7 @@ Also weather forecast for next 5 days <br><br>
 
 ## Author
 
-- **Nikola Stanisavljevic** :+1:
+- **Nikola Stanisavljevic**   :+1:
 
 
 

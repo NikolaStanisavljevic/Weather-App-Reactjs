@@ -1,5 +1,3 @@
-
-
 .footer {
     position: relative;
     width: 100%;
@@ -21,7 +19,7 @@
     font-size: 1.4rem;
 }
 
-.img1  {
+.img1 {
     width: 3.2rem;
     height: 3.2rem;
     position: absolute;
@@ -29,7 +27,7 @@
     bottom: .5rem;
 }
 
-.img2  {
+.img2 {
     width: 3.2rem;
     height: 3.2rem;
     position: absolute;

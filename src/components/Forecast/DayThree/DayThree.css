@@ -1,6 +1,6 @@
 .dayThree {
     display: inline-block;
-    transition: all .3s ;
+    transition: all .3s;
     margin: 0 auto;
     border-bottom: 2px solid rgba(255, 255, 255, .5);
     cursor: pointer;
@@ -10,6 +10,6 @@
     transform: scale(1.2);
 }
 
-.dayThree> img {
+.dayThree>img {
     width: 5.5rem;
 }

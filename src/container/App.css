@@ -2,12 +2,11 @@
   margin: 3rem auto;
   text-align: center;
   width: 37vw;
-  background-image: linear-gradient(to bottom, #3b679e 0%,#2b88d9 40%,#2b88d9 43%,#207cca 49%,#207cca 56%,#7db9e8 100%);
+  background-image: linear-gradient(to bottom, #3b679e 0%, #2b88d9 40%, #2b88d9 43%, #207cca 49%, #207cca 56%, #7db9e8 100%);
   border-radius: 5px;
-  box-shadow: 0 6px 28px -3px rgba(0,0,0,0.75);
+  box-shadow: 0 6px 28px -3px rgba(0, 0, 0, 0.75);
   color: white;
   position: relative;
-
 }
 
 .form {
@@ -23,7 +22,6 @@
 }
 
 @media (max-width: 900px) {
-
   .App {
     width: 100vw;
     margin: 0 auto;
@@ -31,6 +29,3 @@
     border-radius: 0;
   }
 }
-
-
-
