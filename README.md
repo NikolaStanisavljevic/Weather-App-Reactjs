@@ -30,12 +30,12 @@ and after instalation<br>
 * Put the city's name or its part and get the list of the most proper cities in the world.<br>
 Example - Lon or Lond or London.
 The more precise city name you put the more precise list you will get.<br><br>
-![](src/screenshots/first.png)<br><br>
+![](src/img/screenshots/first.png)<br><br>
 * After you chose desired city click the search button in top right corner<br><br>
-![](src/screenshots/second.png)<br><br>
+![](src/img/screenshots/second.png)<br><br>
 *It will show you current time and temperature in ºc with humidity level and wind speed.<br>
 Also weather forecast for next 5 days <br><br>
-![](src/screenshots/third.png)<br><br>
+![](src/img/screenshots/third.png)<br><br>
 
 ## Built With
 
