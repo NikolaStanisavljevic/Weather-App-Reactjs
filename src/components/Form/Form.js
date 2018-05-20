@@ -1,5 +1,6 @@
 import React from "react";
 import classes from "./Form.css";
+import Search from '../../img/search.png';
 
 const form = props => {
   return (
@@ -11,7 +12,7 @@ const form = props => {
         className={classes.input}
       />
       <button className={classes.button}>
-        <img src={require("../../img/search.png")} alt="search" />
+        <img src={Search} alt="search" />
       </button>
     </form>
   );

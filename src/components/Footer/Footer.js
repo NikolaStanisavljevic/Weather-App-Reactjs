@@ -1,11 +1,13 @@
 import React from "react";
 import classes from "./Footer.css";
+import HumidIcon from "../../img/Humidity.png";
+import WindIcon from '../../img/wind.png';
 
 const footer = props => {
   return (
     <div className={classes.footer}>
       <img
-        src={require("../../img/Humidity.png")}
+        src={HumidIcon}
         className={classes.img1}
         alt="Humidity"
       />
@@ -13,7 +15,7 @@ const footer = props => {
         Humidity: <span className={classes.span1}>{props.humidity} %</span>
       </p>
       <img
-        src={require("../../img/wind.png")}
+        src={WindIcon}
         className={classes.img2}
         alt="Wind"
       />
